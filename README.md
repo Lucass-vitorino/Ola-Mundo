@@ -1,5 +1,5 @@
 # Olá, Mundo
- Primeiro repositório versionado
+ Primeiro **repositório** *versionado*
 
 Repositório feito durante a aula do Curso em vídeo.
 
